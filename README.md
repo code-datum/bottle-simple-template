@@ -4,7 +4,7 @@ The app was made  from https://realpython.com/developing-with-bottle-part-1/
 The template needs to create base bottle simple template.
 We need to run the script
 ```bash
-deployment/local/scripts/
+deployment/local/scripts/wizard.sh
 ```
 After we can edit app.py
 
